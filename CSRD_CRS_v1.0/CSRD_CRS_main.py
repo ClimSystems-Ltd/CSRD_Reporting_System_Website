@@ -2,7 +2,7 @@
 
 # ---------------------------------------------------------------------------
 
-# This is the ClimateHub Data Service (CDS v1.0) toolbox of the geospatial data science --- CSRD Reporting System v1.0
+# This is the ClimateHub Data Service (CDS v1.0) toolbox of the geospatial data science --- CSRD Reporting System v1.0 (ETL pipeline App)
 # '''
 # Author: Zhaoquan YU - Johnny
 # Create: 20/11/2022
