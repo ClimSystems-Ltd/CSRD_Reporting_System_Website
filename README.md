@@ -12,7 +12,7 @@ _Create: `05/04/2025`_
 
 #
 
-## I. Generate "Climate Indicators Analysis - CSRD Reports"
+## ⚙️ Generate "Climate Indicators Analysis - CSRD Reports"
 
 1. `Login`
    
@@ -40,7 +40,7 @@ _Create: `05/04/2025`_
 
 #
 
-## II. Export "Climate Indicators Data"
+## ⚙️ Export "Climate Indicators Data"
 
 1. `Login`
    
@@ -68,7 +68,7 @@ _Create: `05/04/2025`_
 
 #
 
-## III. Generate "Flood Data Index"
+## ⚙️ Generate "Flood Data Index"
 
 1. `Login`
    
