@@ -52,7 +52,7 @@ _Create: `05/04/2025`_
 6. `Click the label buttom to download`
 
 
-### Generate "Climate Indicators Data"
+### Export "Climate Indicators Data"
 
 1. `Login`
    
