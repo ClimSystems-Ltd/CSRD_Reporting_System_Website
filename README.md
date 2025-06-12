@@ -29,6 +29,7 @@ _Create: `05/04/2025`_
 
 6. Click the label buttom to download
 
+
 ### Generate "Climate Indicators Data"
 
 1. Login
@@ -37,19 +38,14 @@ _Create: `05/04/2025`_
    
 3. Select "Climate Indicators Data" tool
    
-   ![image 1](https://github.com/user-attachments/assets/5ad2417a-35fa-428d-bcbf-d54c9c7422d0)
 
 4. Select upload "file .CSV" for multiple sites
 
-   ![image 2](https://github.com/user-attachments/assets/72693ec6-6c2f-4647-b5e2-4436574e1c8a)
 
 5. "Search" locations of sites then "Export" the data
 
-   ![image 3](https://github.com/user-attachments/assets/7c877e84-1e6b-4879-9b99-0fb80bdf8784)
 
 6. Click the label buttom to download
-
-   ![image 4](https://github.com/user-attachments/assets/8999a5ef-94e5-44a6-adc8-1314a951a5b9)
 
 
 ### Generate "Flood Data Index"
