@@ -9,3 +9,10 @@ Password: guest
 _Author: `Zhaoquan YU - Johnny`_
 
 _Create: `05/04/2025`_
+
+### User Guide
+
+1. Login
+   ![image](https://github.com/user-attachments/assets/bf5d62a4-4e6b-4a8f-a6ca-551833e7bf03)
+2. Select "Flood Data Index" tool
+   ![image 1](https://github.com/user-attachments/assets/5ad2417a-35fa-428d-bcbf-d54c9c7422d0)
