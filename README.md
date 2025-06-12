@@ -11,9 +11,6 @@ _Author: `Zhaoquan YU - Johnny`_
 _Create: `05/04/2025`_
 
 #
-
-# User Guide
-
 ## I. Generate "Climate Indicators Analysis - CSRD Reports"
 
 1. `Login`
