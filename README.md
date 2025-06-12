@@ -12,35 +12,35 @@ _Create: `05/04/2025`_
 
 #
 
-## ⚙️ Generate "Climate Indicators Analysis - CSRD Reports"
+### ⚙️ Generate "Climate Indicators Analysis - CSRD Reports"
 
-#### 1. `Login`
+1. `Login`
    
    ![image](https://github.com/user-attachments/assets/8682217b-3807-4242-81f1-5a7c71d55c9c)
    
-#### 2. `Select "Climate Indicators Analysis" tool`
+2. `Select "Climate Indicators Analysis" tool`
 
    ![image 1](https://github.com/user-attachments/assets/7129c761-4b29-4e6e-b87f-a1c9a2650046)
 
-#### 3. `Select upload "file .CSV" for multiple sites`
+3. `Select upload "file .CSV" for multiple sites`
 
    ![image 2](https://github.com/user-attachments/assets/a11ba3f0-ef34-4c94-88e6-4d4e5f0b1d38)
 
-#### 4. `"Search" locations of sites then "Buld" the Reports`
+4. `"Search" locations of sites then "Buld" the Reports`
 
    ![image 3](https://github.com/user-attachments/assets/59004636-be04-4bca-8e72-2406b8a293c6)
 
-#### 5. `Click the label buttom to download`
+5. `Click the label buttom to download`
 
    ![image 5](https://github.com/user-attachments/assets/e8688645-ade0-4333-9246-f8f8ad5aa0d0)
 
-#### *  `About "Settings"`
+*  `About "Settings"`
 
    ![image 4](https://github.com/user-attachments/assets/2624e251-20ad-4804-b584-628a0b71a424)
 
 #
 
-## ⚙️ Export "Climate Indicators Data"
+### ⚙️ Export "Climate Indicators Data"
 
 1. `Login`
    
@@ -68,7 +68,7 @@ _Create: `05/04/2025`_
 
 #
 
-## ⚙️ Generate "Flood Data Index"
+### ⚙️ Generate "Flood Data Index"
 
 1. `Login`
    
