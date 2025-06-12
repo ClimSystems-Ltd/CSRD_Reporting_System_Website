@@ -10,9 +10,25 @@ _Author: `Zhaoquan YU - Johnny`_
 
 _Create: `05/04/2025`_
 
-### User Guide
+### User Guide of generate flood data index
 
 1. Login
+   
    ![image](https://github.com/user-attachments/assets/bf5d62a4-4e6b-4a8f-a6ca-551833e7bf03)
-2. Select "Flood Data Index" tool
+   
+3. Select "Flood Data Index" tool
+   
    ![image 1](https://github.com/user-attachments/assets/5ad2417a-35fa-428d-bcbf-d54c9c7422d0)
+
+4. Select upload "file .CSV" for multiple sites to fetch
+
+   ![image 2](https://github.com/user-attachments/assets/72693ec6-6c2f-4647-b5e2-4436574e1c8a)
+
+5. "Search" locations of sites then "Fetch" the Flood data index
+
+   ![image 3](https://github.com/user-attachments/assets/7c877e84-1e6b-4879-9b99-0fb80bdf8784)
+
+6. Click the label buttom to download
+
+   ![image 4](https://github.com/user-attachments/assets/8999a5ef-94e5-44a6-adc8-1314a951a5b9)
+
