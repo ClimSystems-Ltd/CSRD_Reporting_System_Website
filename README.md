@@ -24,7 +24,7 @@ _Create: `05/04/2025`_
 4. Select upload "file .CSV" for multiple sites to fetch
 
 
-5. "Search" locations of sites then "Fetch" the Flood data index
+5. "Search" locations of sites then "Buld" the Reports
 
 
 6. Click the label buttom to download
@@ -43,7 +43,7 @@ _Create: `05/04/2025`_
 
    ![image 2](https://github.com/user-attachments/assets/72693ec6-6c2f-4647-b5e2-4436574e1c8a)
 
-5. "Search" locations of sites then "Fetch" the Flood data index
+5. "Search" locations of sites then "Export" the data
 
    ![image 3](https://github.com/user-attachments/assets/7c877e84-1e6b-4879-9b99-0fb80bdf8784)
 
