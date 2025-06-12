@@ -11,9 +11,8 @@ _Author: `Zhaoquan YU - Johnny`_
 _Create: `05/04/2025`_
 
 #
-
 ### ⚙️ Generate "Climate Indicators Analysis - CSRD Reports"
-
+#
 1. `Login`
    
    ![image](https://github.com/user-attachments/assets/8682217b-3807-4242-81f1-5a7c71d55c9c)
@@ -39,9 +38,8 @@ _Create: `05/04/2025`_
    ![image 4](https://github.com/user-attachments/assets/2624e251-20ad-4804-b584-628a0b71a424)
 
 #
-
 ### ⚙️ Export "Climate Indicators Data"
-
+#
 1. `Login`
    
    ![image](https://github.com/user-attachments/assets/33e17fbf-2931-4d91-84cb-0eb56c6b6707)
@@ -67,9 +65,8 @@ _Create: `05/04/2025`_
    ![image 4](https://github.com/user-attachments/assets/aca7e68d-b94e-48ea-8b07-6507df79087d)
 
 #
-
 ### ⚙️ Generate "Flood Data Index"
-
+#
 1. `Login`
    
    ![image](https://github.com/user-attachments/assets/bf5d62a4-4e6b-4a8f-a6ca-551833e7bf03)
