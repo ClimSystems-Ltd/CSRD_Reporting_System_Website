@@ -56,14 +56,25 @@ _Create: `05/04/2025`_
 
 1. `Login`
    
-   
+   ![image](https://github.com/user-attachments/assets/33e17fbf-2931-4d91-84cb-0eb56c6b6707)
+
 3. `Select "Climate Indicators Data" tool`
    
+   ![image 1](https://github.com/user-attachments/assets/aa6997d0-b192-4faa-b3b5-71d53ba80a99)
 
 4. `Select upload "file .CSV" for multiple sites`
-
+   
+   ![image 2](https://github.com/user-attachments/assets/63a0f75b-27ba-4000-8373-fcacad60e77e)
 
 5. `"Search" locations of sites then "Export" the data`
 
+   ![image 3](https://github.com/user-attachments/assets/724e8b57-5f3a-4618-8c60-923c78cc7787)
 
 6. `Click the label buttom to download`
+
+   ![image 5](https://github.com/user-attachments/assets/25b93626-7108-4c00-90ce-42eeb55bdd36)
+
+*  Setting
+   
+   ![image 4](https://github.com/user-attachments/assets/aca7e68d-b94e-48ea-8b07-6507df79087d)
+
