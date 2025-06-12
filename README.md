@@ -21,7 +21,7 @@ _Create: `05/04/2025`_
 3. Select "Climate Indicators Analysis" tool
    
 
-4. Select upload "file .CSV" for multiple sites to fetch
+4. Select upload "file .CSV" for multiple sites
 
 
 5. "Search" locations of sites then "Buld" the Reports
@@ -39,7 +39,7 @@ _Create: `05/04/2025`_
    
    ![image 1](https://github.com/user-attachments/assets/5ad2417a-35fa-428d-bcbf-d54c9c7422d0)
 
-4. Select upload "file .CSV" for multiple sites to fetch
+4. Select upload "file .CSV" for multiple sites
 
    ![image 2](https://github.com/user-attachments/assets/72693ec6-6c2f-4647-b5e2-4436574e1c8a)
 
@@ -62,7 +62,7 @@ _Create: `05/04/2025`_
    
    ![image 1](https://github.com/user-attachments/assets/5ad2417a-35fa-428d-bcbf-d54c9c7422d0)
 
-4. Select upload "file .CSV" for multiple sites to fetch
+4. Select upload "file .CSV" for multiple sites
 
    ![image 2](https://github.com/user-attachments/assets/72693ec6-6c2f-4647-b5e2-4436574e1c8a)
 
